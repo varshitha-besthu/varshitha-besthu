@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m a Varshitha Besthavemula<br>🌱 A passionate Full-stack Developer <br>💬 Ask me about Ml and full-stack 
+#  About Me:
+🔭 I’m a Varshitha Besthavemula<br>🌱 A  Full-stack Developer <br> Ask me about Ml and full-stack 
 
 
 ## 🌐 Socials:
